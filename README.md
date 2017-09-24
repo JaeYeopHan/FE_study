@@ -1,5 +1,5 @@
 # vue-study
-
+`Vue.js` 스터디 repo.
 
 ## Schedule
 #### 1week
@@ -31,6 +31,7 @@
 
 #### 8week
 * 서버 사이드 렌더링
+
 
 </br>
 
