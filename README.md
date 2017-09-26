@@ -39,6 +39,11 @@
 * [Vue.js Official document(Korean)](https://kr.vuejs.org/)
 * [Vue.js Quick Start 도서](http://www.yes24.com/24/goods/45091747?scode=032&OzSrank=1)
 
+## Supplement
+* [Vue.js tutorial docs - in progress](https://github.com/JaeYeopHan/vue-tutorial-docs)
+* [Webpack2 Tutorial](https://github.com/JaeYeopHan/webpack2_tutorial)
+* [ECMAScript6 study](https://github.com/JaeYeopHan/ECMAScript6_study)
+
 ### Side-project
 * [vue-todo-tutorial](https://github.com/JaeYeopHan/vue-todo-tutorial)
 
