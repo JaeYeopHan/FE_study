@@ -18,6 +18,7 @@
 * 10장, axios
 
 #### 4week
+* Flux
 * Vuex
 
 #### 5week
@@ -25,12 +26,13 @@
 
 #### 6week
 * 트랜지션 효과
-
-#### 7week
 * 단위 테스트
 
-#### 8week
+#### 7week
 * 서버 사이드 렌더링
+
+#### 8week
+* TypeScript (for Vue 2.5)
 
 
 </br>
