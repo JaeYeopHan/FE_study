@@ -12,27 +12,30 @@
 * 6장, 컴포넌트 기초
 
 #### 3week
-* 7장, ECMAScript 2015
-* 8장, Webpack
+* 6장, 컴포넌트 기초
 * 9장, 컴포넌트 심화
-* 10장, axios
+
 
 #### 4week
+* 7장, ECMAScript 2015
+* 8장, Webpack
+* 10장, axios
+
+
+#### 5week
 * Flux
 * Vuex
 
-#### 5week
+#### 6week
 * vue-router를 이용한 라우팅
 
-#### 6week
+#### 7week
 * 트랜지션 효과
 * 단위 테스트
 
-#### 7week
+#### 8week
 * 서버 사이드 렌더링
 
-#### 8week
-* TypeScript (for Vue 2.5)
 
 
 </br>
