@@ -4,31 +4,22 @@
 #### 1week
 - Setting TypeScript playground
 - Basic Types
+- Class in TypeScript
 
 #### 2week
-- Class in TypeScript
 - Function in TypeScript
-
-#### 3week
 - Interface in TypeScript
 - Generics in TypeScript
 
-#### 4week
+#### 3week
 - Decorator
-
-#### 5week
 - Advanced Types
-
-#### 6week
 - Type Inference
 - Type Compatibility
 
-#### 7week
+#### 4week
 - Observer pattern 실습
-
-#### 8week
 - (Optional) React with TypeScript
-
 
 </br>
 
