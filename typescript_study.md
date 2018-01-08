@@ -21,6 +21,20 @@
 - Observer pattern 실습
 - (Optional) React with TypeScript
 
+#### 5week
+- Reactive Programming 알아보기
+- RxJS 핵심요소(Observable, Observer, Subscription, Operators, Subject + Schedulers?) 개괄적으로 살펴보기
+
+#### 6week
+- 중요 Operator 실습(SwitchMap, Scan, TakeUntil,CombineLatest, Reduce, Merge 등)
+
+#### 7week
+- RxJS에서 Subscription 관리하기(subscribe/unsubscribe)
+- Error Handling in RxJS
+
+#### 8week
+- Angular with RxJS
+
 </br>
 
 ## Reference
