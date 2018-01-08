@@ -4,36 +4,30 @@
 #### 1week
 - Setting TypeScript playground
 - Basic Types
-- Class in TypeScript
 
 #### 2week
-- Function in TypeScript
-- Interface in TypeScript
-- Generics in TypeScript
+- Class in TypeScript
 
 #### 3week
+- Function in TypeScript
+- Interface in TypeScript
+
+#### 4week
+- Generics in TypeScript
+
+#### 5week
 - Decorator
 - Advanced Types
+
+#### 6week
 - Type Inference
 - Type Compatibility
 
-#### 4week
-- Observer pattern 실습
-- (Optional) React with TypeScript
-
-#### 5week
-- Reactive Programming 알아보기
-- RxJS 핵심요소(Observable, Observer, Subscription, Operators, Subject + Schedulers?) 개괄적으로 살펴보기
-
-#### 6week
-- 중요 Operator 실습(SwitchMap, Scan, TakeUntil,CombineLatest, Reduce, Merge 등)
-
 #### 7week
-- RxJS에서 Subscription 관리하기(subscribe/unsubscribe)
-- Error Handling in RxJS
+- Observer pattern 실습
 
 #### 8week
-- Angular with RxJS
+- (Optional) React with TypeScript
 
 </br>
 
