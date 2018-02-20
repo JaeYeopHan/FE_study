@@ -1,3 +1,7 @@
-<p>
-  repolist works!
-</p>
+<ul>
+  <li *ngFor="let repo of repolist">
+    <div id="{{repo.id}}">
+      <span>{{repo.name}}</span>
+    </div>
+  </li>
+</ul>

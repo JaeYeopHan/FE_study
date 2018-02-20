@@ -1,5 +1,3 @@
-// tslint:disable-next-line:import-blacklist
-import 'rxjs/Rx';
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { HttpClientModule } from '@angular/common/http';

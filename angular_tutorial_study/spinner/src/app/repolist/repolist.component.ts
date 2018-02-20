@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, Input, SimpleChanges, OnChanges } from '@angular/core';
 import { GithubRepositoryService } from '../github-repository.service';
 
 @Component({
@@ -6,13 +6,26 @@ import { GithubRepositoryService } from '../github-repository.service';
   templateUrl: './repolist.component.html',
   styleUrls: ['./repolist.component.css']
 })
-export class RepolistComponent implements OnInit {
+export class RepolistComponent implements OnInit, OnChanges {
+  @Input() count: number;
+  repolist: any[];
 
   constructor(
     private githubRepositoryService: GithubRepositoryService
   ) { }
 
+  ngOnChanges(changes: SimpleChanges) {
+    console.log(changes.count);
+    if (this.repolist) {
+      this.repolist = this.repolist.slice(0, this.count);
+    }
+  }
+
   ngOnInit() {
+    this.githubRepositoryService.fetch()
+      .subscribe((data) => {
+        this.repolist = data;
+      });
   }
 
 }
