@@ -1,0 +1,29 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<div style="text-align:center">
+  <h1>Welcome to Spinner!</h1>
+</div>
+<h2>Spin box</h2>
+
+<!-- 1. OK -->
+<app-spinner count={{count}}></app-spinner>
+
+<!-- 2. OK -->
+<app-spinner [count]=count></app-spinner>
+
+<!-- 3. OK -->
+<app-spinner [count]="count"></app-spinner>
+
+<!-- 4. OK -->
+<app-spinner count="{{count}}"></app-spinner>
+
+<!-- 5. count -->
+<app-spinner count=count></app-spinner>
+
+<!-- 6. count -->
+<app-spinner count="count"></app-spinner>
+
+<!-- 7. Error  -->
+<app-spinner [count]={{count}}></app-spinner>
+
+<!-- 8. Error -->
+<app-spinner [count]="{{count}}"></app-spinner>
